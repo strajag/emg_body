@@ -1,9 +1,13 @@
 # emg_body
 
 <!-- <img src="" height="500"> -->
-<!-- <img src="" height="500"> -->
+<!-- <video src="" height="500"></video> -->
 
-<iframe src="https://github.com/user-attachments/assets/d9ac54eb-2f46-4772-a9c4-3d550aaa2ac0" allowfullscreen="allowfullscreen" height="500"></iframe>
-<img src="https://github.com/user-attachments/assets/0bd34728-7195-4a54-92d3-6b527953359e" height="500">
-<img src="https://github.com/user-attachments/assets/e97d86cc-0086-45bc-abd1-7b3302a70622" height="500">
-<iframe src="https://drive.google.com/file/d/1AFbm6j-rFldOt87skA1Lu0rlYj0BFP5N/view?usp=drive_link" allowfullscreen="allowfullscreen" height="500"></iframe>
+<video src="https://github.com/user-attachments/assets/d9ac54eb-2f46-4772-a9c4-3d550aaa2ac0" height="500"></video>
+<img src="https://github.com/user-attachments/assets/0bd34728-7195-4a54-92d3-6b527953359e" height="500"></img>
+<img src="https://github.com/user-attachments/assets/e97d86cc-0086-45bc-abd1-7b3302a70622" height="500"></img>
+<video src="https://github.com/user-attachments/assets/2ade1925-d5e3-48c3-8be6-6b5c662f125c" height="500"></video>
+<video src="https://github.com/user-attachments/assets/dbb3556e-23ef-4314-bf4b-0aabe34e3522" height="500"></video>
+<video src="https://github.com/user-attachments/assets/8f3a878e-d3be-4d97-a674-d765d4d35cc1" height="500"></video>
+<video src="https://github.com/user-attachments/assets/5dbaa829-2dcf-42fe-a052-aa8d729e1882" height="500"></video>
+<img src="https://github.com/user-attachments/assets/640880f0-9136-442b-a00b-c16c1b3b7e57" height="500">
